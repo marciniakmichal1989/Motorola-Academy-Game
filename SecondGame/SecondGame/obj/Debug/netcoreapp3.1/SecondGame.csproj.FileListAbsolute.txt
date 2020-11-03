@@ -1,0 +1,13 @@
+C:\Git\Motorola-Academy-Game\SecondGame\SecondGame\bin\Debug\netcoreapp3.1\SecondGame.exe
+C:\Git\Motorola-Academy-Game\SecondGame\SecondGame\bin\Debug\netcoreapp3.1\SecondGame.deps.json
+C:\Git\Motorola-Academy-Game\SecondGame\SecondGame\bin\Debug\netcoreapp3.1\SecondGame.runtimeconfig.json
+C:\Git\Motorola-Academy-Game\SecondGame\SecondGame\bin\Debug\netcoreapp3.1\SecondGame.runtimeconfig.dev.json
+C:\Git\Motorola-Academy-Game\SecondGame\SecondGame\bin\Debug\netcoreapp3.1\SecondGame.dll
+C:\Git\Motorola-Academy-Game\SecondGame\SecondGame\bin\Debug\netcoreapp3.1\SecondGame.pdb
+C:\Git\Motorola-Academy-Game\SecondGame\SecondGame\obj\Debug\netcoreapp3.1\SecondGame.csprojAssemblyReference.cache
+C:\Git\Motorola-Academy-Game\SecondGame\SecondGame\obj\Debug\netcoreapp3.1\SecondGame.AssemblyInfoInputs.cache
+C:\Git\Motorola-Academy-Game\SecondGame\SecondGame\obj\Debug\netcoreapp3.1\SecondGame.AssemblyInfo.cs
+C:\Git\Motorola-Academy-Game\SecondGame\SecondGame\obj\Debug\netcoreapp3.1\SecondGame.csproj.CoreCompileInputs.cache
+C:\Git\Motorola-Academy-Game\SecondGame\SecondGame\obj\Debug\netcoreapp3.1\SecondGame.dll
+C:\Git\Motorola-Academy-Game\SecondGame\SecondGame\obj\Debug\netcoreapp3.1\SecondGame.pdb
+C:\Git\Motorola-Academy-Game\SecondGame\SecondGame\obj\Debug\netcoreapp3.1\SecondGame.genruntimeconfig.cache

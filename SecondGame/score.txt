@@ -1,0 +1,7 @@
+aaaaaaaaaaaaaaa | 03.11.2020 13:38:35 | 0
+bbbbbbbbbbbbbbbbbbbbb | 03.11.2020 13:40:47 | 2
+aaaaaaaaaaaaaaa | 03.11.2020 13:38:35 | 3
+bbbbbbbbbbbbbbbbbbbbb | 03.11.2020 13:40:47 | 6
+aaaaaaaaaaaaaaa | 03.11.2020 13:38:35 | 7
+mich | 03.11.2020 15:14:14 | 0
+www | 03.11.2020 15:15:11 | 0

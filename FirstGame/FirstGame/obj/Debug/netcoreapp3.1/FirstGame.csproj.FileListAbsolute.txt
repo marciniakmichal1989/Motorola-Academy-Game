@@ -1,0 +1,13 @@
+C:\Git\Motorola-Academy-Game\FirstGame\FirstGame\bin\Debug\netcoreapp3.1\FirstGame.exe
+C:\Git\Motorola-Academy-Game\FirstGame\FirstGame\bin\Debug\netcoreapp3.1\FirstGame.deps.json
+C:\Git\Motorola-Academy-Game\FirstGame\FirstGame\bin\Debug\netcoreapp3.1\FirstGame.runtimeconfig.json
+C:\Git\Motorola-Academy-Game\FirstGame\FirstGame\bin\Debug\netcoreapp3.1\FirstGame.runtimeconfig.dev.json
+C:\Git\Motorola-Academy-Game\FirstGame\FirstGame\bin\Debug\netcoreapp3.1\FirstGame.dll
+C:\Git\Motorola-Academy-Game\FirstGame\FirstGame\bin\Debug\netcoreapp3.1\FirstGame.pdb
+C:\Git\Motorola-Academy-Game\FirstGame\FirstGame\obj\Debug\netcoreapp3.1\FirstGame.csprojAssemblyReference.cache
+C:\Git\Motorola-Academy-Game\FirstGame\FirstGame\obj\Debug\netcoreapp3.1\FirstGame.AssemblyInfoInputs.cache
+C:\Git\Motorola-Academy-Game\FirstGame\FirstGame\obj\Debug\netcoreapp3.1\FirstGame.AssemblyInfo.cs
+C:\Git\Motorola-Academy-Game\FirstGame\FirstGame\obj\Debug\netcoreapp3.1\FirstGame.csproj.CoreCompileInputs.cache
+C:\Git\Motorola-Academy-Game\FirstGame\FirstGame\obj\Debug\netcoreapp3.1\FirstGame.dll
+C:\Git\Motorola-Academy-Game\FirstGame\FirstGame\obj\Debug\netcoreapp3.1\FirstGame.pdb
+C:\Git\Motorola-Academy-Game\FirstGame\FirstGame\obj\Debug\netcoreapp3.1\FirstGame.genruntimeconfig.cache
